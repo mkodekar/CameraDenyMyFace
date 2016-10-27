@@ -15,3 +15,8 @@ dont use this if you hate bitmap or bitmap factory.
 
 there is a demo [apk](https://github.com/mkodekar/CameraDenyMyFace/raw/master/apk/app-debug.apk) also available check it out, i have wrote this example with just the flow and have not added permission management. please give permission to the app by going into settings , rather than telling me it does not work.
 
+
+thanks and credits to @mobapptuts for the base of the camera project with this
+
+originally based upon
+https://github.com/mobapptuts/camera_intent
